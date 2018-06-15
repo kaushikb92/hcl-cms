@@ -1,0 +1,45 @@
+.loader-hidden {
+  display: none;
+}
+.loader-active {
+  display: block;
+  color: #000;
+}
+
+#loader {
+  z-index: 9000;
+  margin-left: 50%;
+}
+.navbar-inverse {
+  background-color: #27394f;
+  border-color: #27394f;
+}
+.container .navbar-brand, .container .nav a {
+  color:#fff !important;
+}
+.logo {
+  height: 23px;
+  margin-top: -2px;
+}
+.container {
+  width:55%
+}
+.chkbox-container .checkbox {
+  margin-top: 0px;
+}
+.navbar.navbar-inverse .container {
+  width:100%;
+}
+.btn-primary{
+  background-color: #27394f;
+  border-color: #27394f;
+  padding: 2px 15px;
+  margin-top: 20px;
+} 
+ul {
+  padding: 0; 
+}
+.error-msg {
+  color:red;
+  font-size: 12px;
+}

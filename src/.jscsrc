@@ -1,0 +1,7 @@
+{
+    "preset": "airbnb",
+    "requireCurlyBraces": null ,
+    "disallowQuotedKeysInObjects": false,
+    "requireShorthandArrowFunctions": false,
+    "maximumLineLength": 150
+}
